@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Md-Meadul-Islam
+I have extensive knowledge of Python, Laravel, PHP, MySQL, JavaScript, AJAX and REST API. Combined with my communication and problem-solving skills. I think I would be an excellent candidate for the Software Engineer. I have always been passionate about software engineering, which led me to pursue a Bachelor of Computer Science degree. I am constantly seeking out new technologies and staying up-to-date on trends in the industry.
