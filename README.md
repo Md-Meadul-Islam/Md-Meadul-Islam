@@ -98,7 +98,9 @@ My personal portfolio website.
 - 📧 Email: [mdmeadulislam@gmail.com](mailto:mdmeadulislam@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/md-meadul-islam-497738178](http://www.linkedin.com/in/md-meadul-islam-497738178)  
 - 🐙 GitHub: [github.com/Md-Meadul-Islam](https://github.com/Md-Meadul-Islam)  
-- 🏆 HackerRank: [hackerrank.com/mdmeadulislam](https://www.hackerrank.com/profile/mdmeadulislam)  
+- 🏆 HackerRank: [hackerrank.com/mdmeadulislam](https://www.hackerrank.com/profile/mdmeadulislam)
+- 🏆 LeetCode: [leetcode.com/mdmeadulislam](https://leetcode.com/u/mdmeadulislam)
+- 
 - 🌐 Website: [blooms-ai.com](https://www.blooms-ai.com/)
 
 ---
