@@ -50,8 +50,8 @@ Programming`
 
 ## 💼 Work Experience
 
-### **AI2 Technologies Limited**  
-*Backend Engineer (MERN) | Nov 2024 – Present*  
+### **Ai2 Technologies Limited**  
+*Backend Engineer | Nov 2024 – Present*  
 - Developed and maintained REST APIs for multiple platforms (Web & Android).  
 - Integrated **Stripe Recurring Payment System**.  
 - Optimized API response time using **async programming** and modern architecture.  
