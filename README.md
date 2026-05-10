@@ -1,8 +1,9 @@
 # Hi there, I'm Md. Meadul Islam 👋
 
-I'm a **Full-Stack Engineer** passionate about building scalable and efficient web applications. With experience in **Node.js, Express.js, React.js, MongoDB, MySQL**, and **REST APIs**, I specialize in creating impactful solutions that blend performance and usability.  
-
-Currently, I'm working at **AI2 Technologies Ltd.** as a **Backend Engineer (MERN)**, where I focus on designing APIs, integrating modern technologies like **Redis, Firebase, Socket.io**, and optimizing backend systems for multiple client platforms.
+Full-Stack Software Engineer with hands-on experience building scalable backend systems, REST APIs, and modern
+web applications. Currently working as a **Backend Engineer**, focusing on system optimization, AI-driven product
+search, and payment integration. Strong foundation in Data Structures & Algorithms with 130+ problems solved on
+LeetCode. Passionate about building efficient systems and continuously learning modern technologies.
 
 ---
 
