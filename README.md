@@ -8,26 +8,43 @@ LeetCode. Passionate about building efficient systems and continuously learning 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **ride-sharing and scalable web applications**.  
+- ♾️ Build MCP Server and AI Chatbot for Searching Products.
+- 🌺 Designed and implemented product recommendation systems (collaborative & content-based).
+- 💵 Reduce code time-space complexity by using modern structure (basically in Query, API).
+- ✨ Worked with Redis, Firebase, and Socket.IO for real-time and caching solutions
+- 🎫 Maintain parent APIs server-side application which handle’s companies’ e-commerce’s, job portals etc.
+- 💵 Integrate Stripe Recurring Payment System for Domain User’s Subscriptions.
+- 🔭 Build **ride-sharing and scalable web applications**.  
 - 🌱 Learning more about **system design**, **distributed systems**, and **cloud architecture**.  
-- 💡 Enthusiastic about **competitive programming** and **problem-solving** (Python & DSA).  
 - 📚 I love continuous learning and staying up-to-date with emerging technologies.  
 
 ---
 
 ## 🛠️ Skills
 
-**Expertise:**
-`Node.js` | `Express.js` | `Next.js` | `React.js` | `REST API` | `JavaScript` | `MongoDB` | `MySQL` | `Tailwind CSS`
+**Language:**
+`Python` | `JavaScript (ES6+)` | `PHP`
 
-**Comfortable With:**
-`Python` | `DSA` | `Docker` | `Redis` | `Kafka` | `ORM` | `Git` | `GitHub` | `AWS`
+**Backend:**
+`Node.js` | `Express.js` | `RESTful APIs` | `Microservices Architecture`
 
-**Familiar:**
-`PHP` | `Laravel` | `C-Panel` | `H-Panel` | `Postman` | `Nginx`
+**Frontend:**
+`React.js` | `Next.js` | `Tailwind CSS` | `HTML5` | `CSS3`
 
-**Other Tools:**
-`VS Code` | `Sublime` | `XAMPP` | `Laragon` | `Chrome DevTools` | `Google Search Console`
+**Databases:**
+`MongoDB` | `MySQL`
+
+**Tools & Technologies:**
+`Docker` | `Redis` | `Kafka` | `Firebase` | `Socket.IO` | `Nginx` | `AWS`
+
+**Developer Tools:**
+`Git` | `GitHub` | `Postman` | `VS Code`
+
+**Core Concepts:**
+`Data Structures & Algorithms` | `System Design Basics` | `API Optimization` `Caching` | `Asynchronous
+Programming`
+
+**Data Science & ML:** `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `Jupyter Notebook` | `Anaconda`
 
 ---
 
