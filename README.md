@@ -168,7 +168,7 @@ CGPA: **4.25 / 5.00**
 **Complete AI/ML — Prime 2.0**
 
 Apna College, India  
-Mar 2026 – Nov 2026
+Mar 2026 – Sept 2026
 
 ---
 
